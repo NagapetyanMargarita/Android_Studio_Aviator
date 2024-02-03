@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aviator</string>
+    <string name="textview">TextView</string>
+    <string name="edit_button">edit_button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="names">Compani</string>
+    <string name="names_osn">Основатель</string>
+    <string name="delete_button">delete_button</string>
+    <string name="new_">Добавить</string>
+    <string name="del_">Удалить</string>
+    <string name="mod_">Изменить</string>
+    <string name="cansel">Oтмена</string>
+    <string name="inputPlace">Название города</string>
+    <string name="tableLoyotgrup">Список городов</string>
+    <string name="add_student">Добавить рейс</string>
+    <string name="commit">Подтверждение</string>
+    <string name="inputTitle">Укажите значение</string>
+    <string name="inputTicket">Покупка билета</string>
+    <string name="inputFaculty">Введите название,основателя и дату создания</string>
+    <string name="editAirline">edit airline</string>
+    <string name="deleteAirline">delete airline</string>
+    <string name="openAirline">open airline</string>
+    <string name="textview1">TextView</string>
+    <string name="button1">Button</string>
+</resources>
